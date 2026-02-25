@@ -1,6 +1,6 @@
-# Slay_Of_The_Spire_DOWNFALL_Rus
+# Russian_translation_for_the_Downfall_Expansion_Mod_4.1_Slay_the_spire
 -------------------------------------------------------------
-Русский перевод мода Downfall для Slay of the spire
+Русский перевод мода Downfall ExpansionMod (Ver.4.1) для Slay of the spire
 --------------------------------------------------------------
 Инструкция по установке:
 - Откройте папку с модами в каталоге игры (Steam\SteamApps\workshop\content\646570\1610056683).
